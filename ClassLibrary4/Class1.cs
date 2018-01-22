@@ -8,5 +8,11 @@ namespace ClassLibrary4
 {
     public class Class1
     {
+        public Class1 {}
+
+    asd;fhdasghbdnfasghklhjasdfgnasdrgf
     }
+
+asdgjlasdfjgljasdlk test
+   
 }
