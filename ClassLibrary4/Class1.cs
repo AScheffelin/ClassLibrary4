@@ -16,4 +16,7 @@ namespace ClassLibrary4
         int NewInt { get; set; }
         int NewestInt { get; set; }
     }
+
+asdgjlasdfjgljasdlk test
+   
 }
