@@ -8,5 +8,15 @@ namespace ClassLibrary4
 {
     public class Class1
     {
+        int TestInt { get; set; }
+        public Class1(int test)
+        {
+            TestInt = test;
+        }
+        int NewInt { get; set; }
+        int NewestInt { get; set; }
     }
+
+asdgjlasdfjgljasdlk test
+   
 }
