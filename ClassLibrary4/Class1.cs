@@ -15,6 +15,15 @@ namespace ClassLibrary4
         }
         int NewInt { get; set; }
         int NewestInt { get; set; }
+<<<<<<< HEAD
+=======
+        public void nunustuff()
+        {
+            //Kill me bitch
+        }
+
+        //Fuck you
+>>>>>>> 99b7bfcd29b1060c0ab616b3c5b43191cc1221c8
     }
 
 asdgjlasdfjgljasdlk test
